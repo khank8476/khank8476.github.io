@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 👋 I'm Kamran Khan
 
-You can use the [editor on GitHub](https://github.com/khank8476/khank8476.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Digital Marketing Consultant by profession and Web Developer by Passion. #NFT #Crypto #Metaverse #MERNstack
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
