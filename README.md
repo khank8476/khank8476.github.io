@@ -1,6 +1,6 @@
-## 👋 I'm Kamran Khan
+## 👋 I'm Kamran Khan | Digital Marketer & Web Developer
 
-Digital Marketing Consultant by profession and Web Developer by Passion. #NFT #Crypto #Metaverse #MERNstack
+Digital Marketing Consultant by profession and Web Developer by Passion.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
