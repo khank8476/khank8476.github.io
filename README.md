@@ -1,12 +1,12 @@
-## 👋 I'm Kamran Khan | Digital Marketer & Web Developer
+## 👋 I'm Kamran Khan "Digital Marketer & Web Developer"
 
-Digital Marketing Consultant by profession and Web Developer by Passion.
+An experienced Digital Marketing Consultant by profession and Web Developer by Passion.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am working as a freelancer and provide professional services to clients.
 
-### Markdown
+### Portfolio
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can check below some amazing projects that I had worked on or (working now).
 
 ```markdown
 Syntax highlighted code block
