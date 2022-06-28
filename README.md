@@ -3,7 +3,28 @@
 A Professional Digital Marketer and Passionate Web Developer.
 
 I'm working as a freelancer and provide professional services to clients. A believer in long term partnerships built with 
-Honesty and Integrity. 
+Honesty and Integrity.
+
+### Technology Stack (As a Developer)
+
+- HTML
+- CSS
+- JavaScript
+- React js
+- Node js
+- Mongo DB
+- Express js
+- Web3 Dapps
+- NPM
+- Solidity
+- Wordpress
+- Shopify
+- RESTApi
+- Python
+- Sql
+- More..
+
+`Jack of all trades Master of none!`
 
 ### Portfolio
 
