@@ -9,8 +9,6 @@ Honesty and Integrity.
 
 You can check below some amazing projects that I had worked on or (working now).
 
-```markdown
-
 **Digital Marketing Projects:**
 
 # [VFXFARM](https://vfxfarm.com): This project is a cloud render farm service company looking to increase organic reach through 
@@ -20,9 +18,7 @@ Search Engine Optimization (SEO). We has been successfully running SEO marketing
 #
 
 
-**Web Development Projects**
+**Web Development Projects:**
 
-# [The Conquerors NFT](https://theconquerorsnft.com): This project is an NFT collection minting website.
+- [The Conquerors NFT](https://theconquerorsnft.com): This project is an NFT collection minting website.
 
-[Link](url) and ![Image](src)
-```
