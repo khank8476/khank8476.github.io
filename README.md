@@ -11,11 +11,8 @@ You can check below some amazing projects that I had worked on or (working now).
 
 **Digital Marketing Projects:**
 
-# [VFXFARM](https://vfxfarm.com): This project is a cloud render farm service company looking to increase organic reach through 
+1 [VFXFARM](https://vfxfarm.com): This project is a cloud render farm service company looking to increase organic reach through 
 Search Engine Optimization (SEO). We has been successfully running SEO marketing for a long time.
-
-# 
-#
 
 
 **Web Development Projects:**
