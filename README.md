@@ -1,6 +1,6 @@
 ### 👋 I'm Kamran Khan
 
-A Professional Digital Marketer and Passionate Web Developer.
+A Professional Digital Marketer and Passionate Web Developer from India.
 
 I'm working as a freelancer and provide professional services to clients. A believer in long term partnerships built with 
 Honesty and Integrity.
