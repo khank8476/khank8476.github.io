@@ -5,15 +5,11 @@ A Professional Digital Marketer and Passionate Web Developer from India.
 I'm working as a freelancer and provide professional services to clients. A believer in long term partnerships built with 
 Honesty and Integrity.
 
-I have started creating commercial PHP scripts from December 2022.
+I have started creating commercial PHP scripts from December 2022. My first commercial project is `Boutique: Fashion, clothing & apparel ecommerce management system`.
 
+For more information, functions, features and documentation about it, please visit [here](https://khank8476.github.io/boutique)
 
-My first commercial project is `Boutique: Fashion, clothing & apparel ecommerce management system`
-
-For more information, functions, features and documentation about it, please visit [https://khank8476.github.io/boutique]
-
-is available on codecanyon.net
-
+It is available on codecanyon.net, please visit here to buy this amazing script.
 
 ### Technology Stack (As a Developer)
 
@@ -39,33 +35,33 @@ is available on codecanyon.net
 
 ### Personal Portfolio
 
-https://khank8476.github.io/analog-clock/
+[Analog clock](https://khank8476.github.io/analog-clock/)
 
-https://khank8476.github.io/animated-emojis/
+[Animated emojis](https://khank8476.github.io/animated-emojis/)
 
-https://khank8476.github.io/animated-fish-tank/
+[Animated fish tank](https://khank8476.github.io/animated-fish-tank/)
 
-https://khank8476.github.io/animated-light-bulb/
+[Animated light bulb](https://khank8476.github.io/animated-light-bulb/)
 
-https://khank8476.github.io/animated-road-traffic/
+[Animated road traffic](https://khank8476.github.io/animated-road-traffic/)
 
-https://khank8476.github.io/animated-sea/
+[Animated sea](https://khank8476.github.io/animated-sea/)
 
-https://khank8476.github.io/animated-sky/
+[Animated sky](https://khank8476.github.io/animated-sky/)
 
-https://khank8476.github.io/buddha-rays/
+[Budda rays](https://khank8476.github.io/buddha-rays/)
 
-https://khank8476.github.io/countdown-master/
+[Countdown master](https://khank8476.github.io/countdown-master/)
 
-https://khank8476.github.io/newtons-cradle/
+[Newtons cradle](https://khank8476.github.io/newtons-cradle/)
 
-https://khank8476.github.io/save-the-earth-game/
+[Save the earth game](https://khank8476.github.io/save-the-earth-game/)
 
-https://khank8476.github.io/squid-game-symbol/
+[Squid game symbol](https://khank8476.github.io/squid-game-symbol/)
 
 ### Portfolio
 
-You can check below some amazing projects that I had worked on or (working now).
+You can check below some amazing projects that I had worked on or (working now) for various clients around the world.
 
 **Digital Marketing Projects:**
 
@@ -91,7 +87,7 @@ for them.
 
 **Web Development Projects:**
 
-- [The Conquerors NFT](https://theconquerorsnft.com): This project is an NFT collection minting website.
+- [The Conquerors NFT](https://theconquerorsnft.com): This project is an NFT collection minting website. Created with Reactjs, Nodejs, NPM.
 
 
 
