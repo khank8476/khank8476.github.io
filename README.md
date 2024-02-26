@@ -5,6 +5,9 @@ A Professional SEO and Passionate Web Developer from India.
 I'm working as a freelancer and providing professional services to clients. A believer in long-term partnerships built with 
 Honesty and Integrity.
 
+Nothing is perfect, But I strive to create products and provide services that benefit people.
+
+Contact me for 
 ### Technology Stack (As a Developer)
 
 - HTML
