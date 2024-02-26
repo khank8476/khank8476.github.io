@@ -7,7 +7,8 @@ Honesty and Integrity.
 
 Nothing is perfect, But I strive to create products and provide services that benefit people.
 
-Contact me for 
+Contact me for any development or marketing projects.
+
 ### Technology Stack (As a Developer)
 
 - HTML
@@ -24,11 +25,10 @@ Contact me for
 - Solidity
 - WordPress
 - Shopify
-- RESTApi
+- Most CMS
+- RESTful API
 - Python
 - More...
-
-`Jack of all trades Master of none!`
 
 ### Personal Portfolio
 
@@ -58,7 +58,7 @@ Contact me for
 
 ### Portfolio
 
-You can check below some amazing projects that I had worked on or (working now) for various clients around the world.
+Below are some amazing projects I have worked on or (working now) for various clients worldwide.
 
 **Digital Marketing Projects:**
 
@@ -81,6 +81,7 @@ for them.
 
 - [swhrconsulting](https://swhrconsulting.com): This Business is a Human Resource management & outsourcing firm. We have a good time doing SEO marketing for organic traffic and reach.
 
+- add your project here contact me for any marketing projects.
 
 **Web Development Projects:**
 
@@ -88,5 +89,6 @@ for them.
 
 - Due to a non-disclosure agreement I cannot share some website development work here.
 
-`Please note that some websites may be not accessible`
+- add your project here contact me for any website or app development projects.
 
+`Please note that some websites may be not accessible`
