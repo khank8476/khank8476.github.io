@@ -93,4 +93,5 @@ for them.
 
 `Please note that some websites may be not accessible`
 
-* [privacy policy](https://merchant.razorpay.com/policy/NrkLZnwCWuFSdM/privacy) * [terms and conditions](https://merchant.razorpay.com/policy/NrkLZnwCWuFSdM/terms)
+* [Privacy policy](https://merchant.razorpay.com/policy/NrkLZnwCWuFSdM/privacy)
+* [Terms and conditions](https://merchant.razorpay.com/policy/NrkLZnwCWuFSdM/terms)
