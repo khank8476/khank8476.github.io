@@ -92,3 +92,6 @@ for them.
 - add your project here contact me for any website or app development projects.
 
 `Please note that some websites may be not accessible`
+
+[privacy policy](https://merchant.razorpay.com/policy/NrkLZnwCWuFSdM/privacy)
+[terms and conditions](https://merchant.razorpay.com/policy/NrkLZnwCWuFSdM/terms)
