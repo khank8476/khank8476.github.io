@@ -31,4 +31,4 @@ Please feel free to contact me for any development or marketing projects.
 - More...
 
 PayPal Me:
-https://paypal.me/khankam50
+[https://paypal.me/khankam50](https://paypal.me/khankam50)
