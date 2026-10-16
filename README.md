@@ -30,5 +30,6 @@ Please feel free to contact me for any development or marketing projects.
 - Python
 - More...
 
-Pay with ethereum: 0x57EC1494fA41859C3b507365f9E39aB7D28F4c9F
-ethereum can be bought from coinbase.com
+Pay with Ethereum: 0x57EC1494fA41859C3b507365f9E39aB7D28F4c9F
+
+Ethereum can be bought from coinbase.com
